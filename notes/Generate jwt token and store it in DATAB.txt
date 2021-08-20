@@ -1,0 +1,3 @@
+Generate jwt token and store it in DATABASE
+how to store token in cookies
+get token from cookies and verify the user
